@@ -7,6 +7,6 @@ Since it is processed on the server side, the IP address will not be revealed to
 
 Stay tuned for the release!
 
-///////////////////////////////////////////////////////////////////////////
-(I really want to use it right away !
+///////////////////////////////////////////////////////////////////////////<br>
+(I really want to use it right away !<br>
 Please use the API URL from the commit history of README.md)
