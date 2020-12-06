@@ -36,7 +36,7 @@ func main() {
 			c.JSON(http.StatusInternalServerError, gin.H{
 				"redirectLink": nil,
 				"status":       "error",
-				"An error has occurred in the server."
+				"message":      "An error has occurred in the server.",
 			})
 			log.Print(err)
 		}
