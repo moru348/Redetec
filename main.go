@@ -55,7 +55,7 @@ func checkRedirect(link string) (string, error) {
 	defer resp.Body.Close()
 	var loc string
 	if urlError, ok := err.(*url.Error); ok && urlError.Err == RedirectAttemptedError {
-		loc = fmt.Sprint(resp.Header["Location"])
+		loc = fmt.Sprint(resp.Header["Location"][0])
 	}
 	return loc, nil
 }
