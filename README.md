@@ -7,6 +7,5 @@ Since it is processed on the server side, the IP address will not be revealed to
 
 Stay tuned for the release!
 
-///////////////////////////////////////////////////////////////////////////<br>
-(I really want to use it right away !<br>
-Please use the API URL from the commit history of README.md)
+
+![request](https://cdn.discordapp.com/attachments/783681004513918999/785725865970892840/unknown.png)
